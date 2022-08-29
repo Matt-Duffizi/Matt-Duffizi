@@ -20,6 +20,6 @@
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Matt-Duffizi&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Matt-Duffizi&show_icons=true&theme=cobalt">
 </p>
 
