@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Matt-Duffizi/Matt-Duffizi/blob/main/GitHub.gif">
+ <img  width="400" height="400" src="https://github.com/Matt-Duffizi/Matt-Duffizi/blob/main/GitHub.gif">
 </p>
 <h2 align="center">Hello there! My name is Matteo D'Uffizi</h2>
 <p align="center">Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
