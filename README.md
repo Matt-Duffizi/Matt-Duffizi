@@ -2,12 +2,14 @@
  <img  width="400" height="400" src="https://github.com/Matt-Duffizi/Matt-Duffizi/blob/main/GitHub.gif">
 </p>
 <h2 align="center">Hello there! My name is Matteo D'Uffizi</h2>
-<p align="center">Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+<p align="center">Graduated in philosophy of science. I then started studying programming languages, such as java and python. I worked as a software engineer and web developer. In the meantime, interested in machine learning, I took my certification as a data scientist and completed some tasks as a data scientist in my workplace.
 </p>
 
-<p align="center">Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+<p align="center">
+Science, to be able to model the world, is what the steps of progress are made of. 
+ </p>
 
-<p align="center"><a href="https://www.linkedin.com/VOID/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/VOID"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://www.linkedin.com/VOID/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/matt.duffizi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 
