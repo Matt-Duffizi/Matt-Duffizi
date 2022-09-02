@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-Science, to be able to model the world, is what the steps of progress are made of. 
+Science, to be able to model the world, is what the steps of progress are made of.
+Artificial Intelligence is the eyeglass of ourmind. 
  </p>
 
 <p align="center"><a href="https://www.linkedin.com/VOID/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/matt.duffizi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
