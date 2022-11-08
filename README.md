@@ -1,7 +1,7 @@
 <p align="center">
  <img  width="400" height="400" src="https://github.com/Matt-Duffizi/Matt-Duffizi/blob/main/GitHub.gif">
 </p>
-<h2 align="center">Salvete! ego sum Matteo D'Uffizi</h2>
+<h2 align="center">Salvete! Ego sum Matteo D'Uffizi</h2>
 <p align="center">Graduated in philosophy of science. I then started studying programming languages, such as java and python. I worked as a software engineer and web developer. In the meantime, interested in machine learning, I took my certification as a data scientist and completed some tasks as a data scientist in my workplace.
 </p>
 
